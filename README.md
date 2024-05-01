@@ -6,7 +6,7 @@ It works in 3 simple steps:
   - It uses [Discord AV1 Video Tool](https://autocompressor.net/av1?) to generate a link to the video
   - It copies it to your clipboard and voila, you can send it anywhere
 
-This program works by exploiting a bug in Discord that forces it to display VERY large videos that wouldn't be embedded otherwise.
+This program works by leveraging a feature in Discord that forces it to display VERY large videos that wouldn't be embedded otherwise.
 
 ## How to use
 - Go to [Releases](https://github.com/nekiak/discordclipuploader/releases/)
